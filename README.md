@@ -4,4 +4,4 @@
 
 
  # Author
- #author [Diego Cruz](https://github.com/diegoforrest)
+[Diego Cruz](https://github.com/diegoforrest)
